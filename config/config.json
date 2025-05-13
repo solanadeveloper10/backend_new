@@ -2,5 +2,5 @@
    "botNicknameForReply": "DUMB",
    "tgMaxHistoryMessagesCount": 10,
    "promptName": "Dumb.json",
-   "enableForDomains": ["http://dumbbob.fun", "https://68233a957b52830008cdda26--cool-panda-77d688.netlify.app"]
+   "enableForDomains": ["https://dumbbob.fun", "https://68233a957b52830008cdda26--cool-panda-77d688.netlify.app"]
 }
