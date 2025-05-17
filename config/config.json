@@ -1,6 +1,6 @@
 {
-   "botNicknameForReply": "DUMB",
+   "botNicknameForReply": "MORON",
    "tgMaxHistoryMessagesCount": 10,
-   "promptName": "Dumb.json",
-   "enableForDomains": ["https://dumbbob.fun", "https://68233a957b52830008cdda26--cool-panda-77d688.netlify.app"]
+   "promptName": "MoronFrenAI.json",
+   "enableForDomains": ["https://moronfren.xyz", "https://moron-fren-ai.netlify.app","https://www.moronfren.xyz"]
 }
