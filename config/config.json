@@ -2,5 +2,5 @@
    "botNicknameForReply": "Hodler Bob",
    "tgMaxHistoryMessagesCount": 10,
    "promptName": "Dumb.json",
-   "enableForDomains": ["https://app.netlify.com/projects/cool-panda-77d688/overview", "https://http://hodlerbob.fun"]
+   "enableForDomains": ["https://cool-panda-77d688.netlify.app", "https://http://hodlerbob.fun"]
 }
